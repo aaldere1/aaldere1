@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaldere1
 - 👀 I’m interested in learning and doing everything.
 - 🌱 I’m always learning and creating cool things for CineConcerts.
-- 💞️ I’m looking to collaborate on anything cool.
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me  - find me on twitter @aaldere1 or contact me through my website.
 
 <!---
