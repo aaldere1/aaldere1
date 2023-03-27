@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @aaldere1
-- 👀 I’m interested in learning and doing everything.
-- 🌱 I’m always learning and creating cool things for CineConcerts.
-- 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me  - find me on twitter @aaldere1 or contact me through my website.
+My voice is my passport, verify me.
 
 <!---
 aaldere1/aaldere1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
