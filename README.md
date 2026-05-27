@@ -5,11 +5,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/aaldere1?style=social)](https://github.com/aaldere1?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/aaldere1?style=social)](https://github.com/aaldere1?tab=stars)
 
+**92 repositories** (5 public • 87 private — the real work is invisible)
+
 **Transmitting from the intersection of live orchestras, AI agents, and the uncanny.**
 
-I run the digital nervous system at [CineConcerts](https://www.cineconcerts.com) — the people putting full symphony orchestras in front of giant screens for *Harry Potter*, *Gladiator*, *The Godfather*, *Elf*, and more. 5M+ people. 48 countries. Thousands of performances.
+I run the digital nervous system at [CineConcerts](https://www.cineconcerts.com) — full symphony orchestras in front of giant screens for *Harry Potter*, *Gladiator*, *The Godfather*, *Elf* and more. 5M+ attendees. 48 countries. Thousands of performances.
 
-I also build the AI tooling, XR worlds, platforms, and internal infrastructure that keep something this strange and beautiful actually running.
+I build and maintain the 87 private production systems, sync engines, B2B platforms, bots, streaming infrastructure, and AI tooling that actually make it run. The public GitHub profile is the polite version.
 
 ---
 
@@ -24,17 +26,31 @@ I believe internal tools should be as good as the public ones. Sometimes better.
 
 ---
 
-## [DEPLOYED SIGNALS]
+## [REAL OUTPUT]
+
+**92 repositories.** GitHub only shows the 5 public ones.
+
+The other 87 are the actual operating system:
+
+- B2B wholesale platforms (Next.js 15 + Shopify)
+- Official Telegram discovery + notification bot for real audiences
+- Production sync engines replacing legacy jobs (Knack/Algolia/Notion pipelines on Vercel)
+- Marketing asset pipelines, partner portals, invoice systems, payments, notifications
+- Plex-based 24/7 streaming, scoring/cue infrastructure, live event tooling
+- Internal APIs tying Notion, Ragic, Google, Shopify together
+
+This week I've had active code in at least 8 different production codebases. This is not "side projects." This is what keeps thousands of symphony orchestra performances running across 48 countries.
+
+**Public signals (the visible fraction):**
 
 **[cineconcerts-mcp](https://github.com/aaldere1/cineconcerts-mcp)**  
-Public MCP server. Real-time CineConcerts event data for Claude, Cursor, VS Code, Windsurf, and any MCP client. No keys. Natural language show discovery anywhere on Earth.  
+Public MCP server. Natural language access to live CineConcerts event data for Claude, Cursor, and any MCP client.  
 `https://cineconcerts.digital/mcp/`
 
-**[cineconcerts-admin](https://github.com/aaldere1/cineconcerts-admin)**  
-The one that replaced the old Heroku sync jobs. Two production pipelines, a shockingly good operations dashboard, and health surfaces that actually explain themselves. Built the way I wish more internal tooling was built.
+**[awesome-design-systems](https://github.com/aaldere1/awesome-design-systems)**  
+58 world-class design systems (Linear, Stripe, Apple, Vercel, Ferrari + 52 more) packaged as an AI agent skill.
 
-**CineConcerts Digital Platforms**  
-The sites, apps, stores, and experiences that make the live shows possible.
+The rest stays private because that's where the real shit happens.
 
 ---
 
