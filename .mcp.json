@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "YouArt": {
+      "type": "http",
+      "url": "https://mcp.youart.ai/mcp"
+    }
+  }
+}
